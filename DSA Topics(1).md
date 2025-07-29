@@ -1,0 +1,15 @@
+
+1. [[Arrays]]
+2. [[Maths]]
+3. [[Binary Search]]
+4. [[Bit Manipulation]]
+5. [[Strings]]
+6. [[2Pointer]]
+7. [[Linked List]]
+8. [[Stack & Queue]]
+9. [[Tree]]
+10. [[Dynamic Programming (DP)]]
+11. [[Graph]]
+12. [[Heap]]
+13. [[Greedy]]
+
